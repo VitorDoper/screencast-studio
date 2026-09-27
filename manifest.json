@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "ScreenCast Studio - Transmissor de Tela PC",
+  "short_name": "ScreenCast",
+  "description": "Aplicativo profissional para transmitir e gravar a tela do PC ao vivo",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
