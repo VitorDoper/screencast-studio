@@ -1,0 +1,10 @@
+{
+  "name": "ScreenCast Studio - Transmissor de Tela PC",
+  "description": "Aplicativo profissional para capturar, transmitir e gravar a tela do PC ao vivo com webcam, microfone, anotações interativas e compartilhamento WebRTC.",
+  "requestFramePermissions": [
+    "display-capture",
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
